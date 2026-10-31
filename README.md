@@ -1,8 +1,7 @@
 # Papers
 
-PDFs of Diego Santa María's papers, served by GitHub Pages at fixed links:
+The job market paper now lives at https://d-santamaria-94.github.io/files/SantaMaria_JMP.pdf
 
-- Job market paper: https://d-santamaria-94.github.io/papers/SantaMaria_JMP.pdf
+This repository keeps a copy at the old address so links already sent keep working: https://d-santamaria-94.github.io/papers/SantaMaria_JMP.pdf
 
-To update a paper, upload the new PDF under the same file name (Add file > Upload files on github.com, then Commit).
-The link stays the same and shows the new version within a few minutes.
+Don't update it by hand: freeze_jmp.py in the paper folder updates both addresses.
